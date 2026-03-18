@@ -1,0 +1,287 @@
+### Contacts ###
+Avery Collins        | 02-11-1974 | 555-382-1947 | avery.collins@brightmail.com
+Serena Talbot        | 09-03-1989 | 555-241-8820 | s.talbot@stoneworks.net
+Marcus Ellery        | 12-27-1995 | 555-902-1334 | marcus.ellery@bluehollow.org
+Fiona Crestwell      | 05-14-1978 | 555-744-2921 | f.crestwell@riversidehub.io
+Jordan Vance         | 03-20-2001 | 555-118-6402 | jordan.vance@amberforge.co
+
+Lydia Marsten        | 07-08-1983 | 555-203-5149 | lydia.marsten@brightmail.com
+Caleb Thorn          | 10-01-1992 | 555-711-4052 | calebt@stoneworks.net
+Nia Hargrave         | 11-19-1971 | 555-947-3308 | n.hargrave@bluehollow.org
+Rowan Pike           | 06-02-2004 | 555-522-9076 | rowan.pike@riversidehub.io
+Brielle Caden        | 08-25-1999 | 555-602-2481 | brielle.caden@amberforge.co
+
+Jasper Lorne         | 01-07-1986 | 555-319-7845 | j.lorne@brightmail.com
+Talia Renwick        | 09-30-1973 | 555-478-6629 | talia.renwick@stoneworks.net
+Milo Hartson         | 04-18-2010 | 555-701-9920 | milo.hartson@bluehollow.org
+Evelyn Shore         | 07-29-1997 | 555-862-1133 | evelyn.shore@riversidehub.io
+Gavin Reddick        | 03-12-1981 | 555-500-4472 | g.reddick@amberforge.co
+
+Laurel Finch         | 05-22-2007 | 555-909-2834 | laurel.finch@brightmail.com
+Pierce Halden        | 12-03-1976 | 555-774-1168 | pierce.halden@stoneworks.net
+Mira Solis           | 11-16-1990 | 555-348-5099 | mira.solis@bluehollow.org
+Caspian Yarrow       | 01-28-2002 | 555-621-4405 | caspian.y@riversidehub.io
+Nadia Kessler        | 06-11-1984 | 555-884-3016 | n.kessler@amberforge.co
+
+Trent Holloway       | 10-24-1979 | 555-265-7993 | trent.holloway@brightmail.com
+Alina Merrit         | 02-15-1993 | 555-158-3420 | alina.m@stoneworks.net
+Seth Drayton         | 03-05-1988 | 555-740-6921 | seth.drayton@bluehollow.org
+Claire Norwick       | 07-21-1970 | 555-826-5124 | claire.n@riversidehub.io
+Orion Maddox         | 12-09-2015 | 555-903-7752 | orion.maddox@amberforge.co
+
+Hazel Whitford       | 09-14-1998 | 555-661-4908 | hazel.whitford@brightmail.com
+Declan Merriweather  | 05-03-1980 | 555-730-2448 | declan.merriweather@stoneworks.net
+Ivy Corbin           | 08-07-2005 | 555-459-6777 | ivy.corbin@bluehollow.org
+Silas Pendry         | 01-29-1972 | 555-184-9251 | silas.p@riversidehub.io
+Lila Armond          | 06-26-1991 | 555-517-6033 | lila.armond@amberforge.co
+
+Ezra Kavanaugh       | 10-12-2018 | 555-722-4906 | ezra.kav@brightmail.com
+Vera Loxley          | 03-09-1975 | 555-392-5617 | v.loxley@stoneworks.net
+Holden Brackett      | 11-05-2000 | 555-819-2073 | holden.brackett@bluehollow.org
+Priya Dandridge      | 04-02-1987 | 555-240-9011 | priya.d@riversidehub.io
+Weston Hale          | 01-18-1996 | 555-675-4399 | weston.hale@amberforge.co
+
+Juliette Farrow      | 08-31-1977 | 555-954-7701 | j.farrow@brightmail.com
+Ronan Wycliffe       | 02-23-2012 | 555-741-6204 | r.wycliffe@stoneworks.net
+Dahlia Trentham      | 09-17-1985 | 555-572-1980 | dahlia.t@bluehollow.org
+Corbin Slate         | 04-27-1994 | 555-806-3312 | corbin.slate@riversidehub.io
+Amara Penn           | 12-20-1970 | 555-918-6471 | amara.penn@amberforge.co
+
+
+
+### LOG ENTRIES ###
+2024-04-11 08:00:11 DEBUG   Avery Collins wonders if pigeons hold grudges
+2024-04-11 08:02:45 INFO    Avery Collins finally located the remote control in the freezer
+2024-04-11 08:05:12 WARNING Avery Collins balanced a plate on a spinning office chair
+2024-04-11 08:07:59 ERROR   Avery Collins poured orange juice into cereal
+
+2024-04-11 08:01:33 DEBUG   Serena Talbot debates whether socks must match on weekdays
+2024-04-11 08:04:20 INFO    Serena Talbot complimented her reflection for “trying its best”
+2024-04-11 08:06:48 WARNING Serena Talbot attempted to carry 14 grocery bags at once
+2024-04-11 08:10:15 ERROR   Serena Talbot walked into a parked car while waving at a stranger
+
+2024-04-11 08:11:42 DEBUG   Marcus Ellery internally practices award speeches for chores completed
+2024-04-11 08:14:09 INFO    Marcus Ellery watered his plants; plants remain cautiously optimistic
+2024-04-11 08:17:50 WARNING Marcus Ellery attempted to flip an omelette confidently
+2024-04-11 08:20:36 ERROR   Marcus Ellery discovered the omelette now lives on the floor
+
+2024-04-11 08:09:28 DEBUG   Fiona Crestwell wonders if she can reason with her alarm clock
+2024-04-11 08:12:07 INFO    Fiona Crestwell successfully matched footwear for the day
+2024-04-11 08:15:39 WARNING Fiona Crestwell ate “mysterious fridge yogurt” anyway
+2024-04-11 08:18:22 ERROR   Fiona Crestwell spilled yogurt on a cat she does not own
+
+2024-04-11 08:23:11 DEBUG   Jordan Vance contemplates if he should name his houseplants
+2024-04-11 08:26:42 INFO    Jordan Vance made toast that was toasted but not burnt — a miracle
+2024-04-11 08:28:19 WARNING Jordan Vance attempted to taste-test boiling soup
+2024-04-11 08:31:55 ERROR   Jordan Vance burned his tongue immediately
+
+2024-04-11 08:30:03 DEBUG   Lydia Marsten wonders why keys vanish upon eye contact
+2024-04-11 08:33:40 INFO    Lydia Marsten perfectly folded a fitted sheet (unverified)
+2024-04-11 08:36:58 WARNING Lydia Marsten stacked laundry too high for safe transport
+2024-04-11 08:40:11 ERROR   Lydia Marsten dropped the entire stack down the stairs
+
+2024-04-11 08:41:28 DEBUG   Caleb Thorn debates whether he genuinely likes kombucha
+2024-04-11 08:44:06 INFO    Caleb Thorn brewed tea at a temperature he confidently guessed
+2024-04-11 08:46:49 WARNING Caleb Thorn set his book on a stove that was questionably warm
+2024-04-11 08:49:15 ERROR   Caleb Thorn singed the corner of the book
+
+2024-04-11 08:51:02 DEBUG   Nia Hargrave contemplates how many naps classify as a “sleep marathon”
+2024-04-11 08:54:18 INFO    Nia Hargrave successfully located both shoes on the first try
+2024-04-11 08:57:01 WARNING Nia Hargrave opened a soda she shook absentmindedly
+2024-04-11 08:59:44 ERROR   Nia Hargrave blasted soda across the kitchen
+
+2024-04-11 09:00:12 DEBUG   Rowan Pike tries to recall if breakfast happened already
+2024-04-11 09:02:50 INFO    Rowan Pike ate cookies without judging himself
+2024-04-11 09:05:29 WARNING Rowan Pike attempted to microwave foil “just for a second”
+2024-04-11 09:07:18 ERROR   Rowan Pike confirmed foil microwaving is a terrible idea
+
+2024-04-11 09:09:10 DEBUG   Brielle Caden wonders if her pet fish knows her name
+2024-04-11 09:11:45 INFO    Brielle Caden learned a new dance move by accident
+2024-04-11 09:14:22 WARNING Brielle Caden walked while texting near obstacles
+2024-04-11 09:17:56 ERROR   Brielle Caden collided with a lamp
+
+2024-04-11 09:19:21 DEBUG   Jasper Lorne debates if he should start wearing capes casually
+2024-04-11 09:22:14 INFO    Jasper Lorne rescued a marshmallow from falling off a counter
+2024-04-11 09:24:47 WARNING Jasper Lorne attempted acrobatics to catch a pencil
+2024-04-11 09:27:52 ERROR   Jasper Lorne fell off his chair during said acrobatics
+
+2024-04-11 09:29:08 DEBUG   Talia Renwick silently critiques her own posture
+2024-04-11 09:32:30 INFO    Talia Renwick made the perfect cup of tea, then forgot about it
+2024-04-11 09:34:59 WARNING Talia Renwick balanced her mug on a pillow
+2024-04-11 09:37:46 ERROR   Talia Renwick spilled tea immediately
+
+2024-04-11 09:38:12 DEBUG   Milo Hartson ponders why bananas ripen aggressively overnight
+2024-04-11 09:41:50 INFO    Milo Hartson made a sandwich with perfect symmetry
+2024-04-11 09:44:28 WARNING Milo Hartson trusted a wobbly chair too much
+2024-04-11 09:47:09 ERROR   Milo Hartson fell off said wobbly chair
+
+2024-04-11 09:48:55 DEBUG   Evelyn Shore wonders if she’s living in the blooper reel
+2024-04-11 09:51:32 INFO    Evelyn Shore returned all her library books on time
+2024-04-11 09:54:13 WARNING Evelyn Shore attempted to eat soup with a fork
+2024-04-11 09:56:59 ERROR   Evelyn Shore spilled soup onto her socks
+
+2024-04-11 10:00:27 DEBUG   Gavin Reddick contemplates buying matching outfits for his plants
+2024-04-11 10:03:44 INFO    Gavin Reddick achieved perfect parallel parking witnessed by nobody
+2024-04-11 10:06:10 WARNING Gavin Reddick added way too much pepper to his meal
+2024-04-11 10:08:59 ERROR   Gavin Reddick sneezed directly into the pepper bowl
+
+2024-04-11 10:10:24 DEBUG   Laurel Finch wonders what her dishwasher actually does
+2024-04-11 10:13:11 INFO    Laurel Finch organized her fridge by color
+2024-04-11 10:16:33 WARNING Laurel Finch placed sparkling water on the edge of a table
+2024-04-11 10:19:55 ERROR   Laurel Finch knocked it over dramatically
+
+2024-04-11 10:20:12 DEBUG   Pierce Halden questions whether bread counts as a hobby
+2024-04-11 10:23:40 INFO    Pierce Halden alphabetized his spice rack impressively
+2024-04-11 10:26:09 WARNING Pierce Halden tried slicing tomatoes with a plastic knife
+2024-04-11 10:29:55 ERROR   Pierce Halden squished every tomato into pulp
+
+2024-04-11 10:31:19 DEBUG   Mira Solis debates starting a journal titled “Oops: A Memoir”
+2024-04-11 10:33:40 INFO    Mira Solis flawlessly assembled flat-pack furniture by accident
+2024-04-11 10:36:58 WARNING Mira Solis attempted to fix a wobbly table by adding more wobble
+2024-04-11 10:38:59 ERROR   Mira Solis glued her sleeve to the tabletop
+
+2024-04-11 10:40:12 DEBUG   Caspian Yarrow wonders if penguins have regional accents
+2024-04-11 10:43:18 INFO    Caspian Yarrow brewed tea that tasted surprisingly adequate
+2024-04-11 10:46:41 WARNING Caspian Yarrow attempted to toast bread with a candle
+2024-04-11 10:48:58 ERROR   Caspian Yarrow started a small bread‑scented fire
+
+2024-04-11 10:50:06 DEBUG   Nadia Kessler ponders if socks evolve legs just to escape
+2024-04-11 10:52:44 INFO    Nadia Kessler successfully assembled a salad without incident
+2024-04-11 10:55:29 WARNING Nadia Kessler put her drink too close to her elbow
+2024-04-11 10:57:57 ERROR   Nadia Kessler elbow‑launched the drink across the room
+
+2024-04-11 11:00:08 DEBUG   Trent Holloway wonders if cereal and milk order truly matters
+2024-04-11 11:02:55 INFO    Trent Holloway tied his shoes correctly on the first attempt
+2024-04-11 11:05:40 WARNING Trent Holloway attempted to sit in a chair he imagined was closer
+2024-04-11 11:07:59 ERROR   Trent Holloway landed gracefully on the floor instead
+
+2024-04-11 11:09:11 DEBUG   Alina Merrit debates whether to fix a squeaky door or name it
+2024-04-11 11:12:44 INFO    Alina Merrit took out the trash before it rebelled
+2024-04-11 11:15:30 WARNING Alina Merrit attempted to clean with a suspiciously old sponge
+2024-04-11 11:18:28 ERROR   Alina Merrit snapped the sponge in half
+
+2024-04-11 11:19:33 DEBUG   Seth Drayton wonders which life choices led to 17 open tabs
+2024-04-11 11:22:10 INFO    Seth Drayton finally watered his plants before they staged a coup
+2024-04-11 11:25:55 WARNING Seth Drayton attempted to grab toast bare‑handed
+2024-04-11 11:27:44 ERROR   Seth Drayton burned three fingers immediately
+
+2024-04-11 11:29:21 DEBUG   Claire Norwick silently judges her own handwriting
+2024-04-11 11:31:59 INFO    Claire Norwick cooked pasta *al dente*, unintentionally
+2024-04-11 11:34:40 WARNING Claire Norwick stacked books taller than recommended
+2024-04-11 11:37:22 ERROR   Claire Norwick collapsed the entire book tower
+
+2024-04-11 11:38:55 DEBUG   Orion Maddox contemplates writing a novel about a heroic sandwich
+2024-04-11 11:41:30 INFO    Orion Maddox successfully untangled headphones in under a minute
+2024-04-11 11:44:02 WARNING Orion Maddox carried soup while wearing roller skates
+2024-04-11 11:46:59 ERROR   Orion Maddox spilled soup in spectacular fashion
+
+2024-04-11 11:48:21 DEBUG   Hazel Whitford wonders why pencils disappear faster than cookies
+2024-04-11 11:50:48 INFO    Hazel Whitford found all her missing hair ties in one drawer
+2024-04-11 11:53:36 WARNING Hazel Whitford opened a soda can immediately after shaking it
+2024-04-11 11:55:55 ERROR   Hazel Whitford redecorated her shirt in cola
+
+2024-04-11 11:57:12 DEBUG   Declan Merriweather debates renaming his plants for tax purposes
+2024-04-11 12:00:52 INFO    Declan Merriweather learned a magic trick unintentionally
+2024-04-11 12:03:15 WARNING Declan Merriweather trusted a suspiciously old burrito
+2024-04-11 12:06:41 ERROR   Declan Merriweather regretted trusting the burrito immediately
+
+2024-04-11 12:08:03 DEBUG   Ivy Corbin imagines winning an award for “Most Confused Today”
+2024-04-11 12:10:40 INFO    Ivy Corbin organized her bookshelf by book height
+2024-04-11 12:13:18 WARNING Ivy Corbin attempted to catch a falling mug with her foot
+2024-04-11 12:15:55 ERROR   Ivy Corbin shattered the mug *and* stubbed her toe
+
+2024-04-11 12:17:29 DEBUG   Silas Pendry contemplates training squirrels for good deeds
+2024-04-11 12:19:57 INFO    Silas Pendry brewed tea that tasted like success
+2024-04-11 12:22:31 WARNING Silas Pendry placed a full mug on a slanted surface
+2024-04-11 12:24:14 ERROR   Silas Pendry knocked the mug over in under 3 seconds
+
+2024-04-11 12:25:41 DEBUG   Lila Armond wonders if her plants secretly gossip
+2024-04-11 12:28:39 INFO    Lila Armond successfully remembered her password on first try
+2024-04-11 12:30:55 WARNING Lila Armond attempted to peel an orange with a spoon
+2024-04-11 12:33:44 ERROR   Lila Armond flung orange pulp across the room
+
+2024-04-11 12:34:58 DEBUG   Ezra Kavanaugh contemplates the philosophical depth of cereal
+2024-04-11 12:37:44 INFO    Ezra Kavanaugh achieved a perfect high‑five with a stranger
+2024-04-11 12:40:10 WARNING Ezra Kavanaugh carried three mugs in one hand
+2024-04-11 12:42:33 ERROR   Ezra Kavanaugh dropped all three mugs despite confidence
+
+2024-04-11 12:43:51 DEBUG   Vera Loxley debates rewriting her to‑do list to feel productive
+2024-04-11 12:46:27 INFO    Vera Loxley taught her dog a trick by accident
+2024-04-11 12:48:59 WARNING Vera Loxley attempted to eat soup from a moving vehicle
+2024-04-11 12:51:15 ERROR   Vera Loxley spilled soup dramatically
+
+2024-04-11 12:52:28 DEBUG   Holden Brackett wonders why pens disappear faster than socks
+2024-04-11 12:55:21 INFO    Holden Brackett took a walk and bonded with a squirrel
+2024-04-11 12:58:47 WARNING Holden Brackett tried to fix a wobbly shelf by pushing harder
+2024-04-11 13:01:59 ERROR   Holden Brackett collapsed the entire shelf
+
+2024-04-11 13:03:11 DEBUG   Priya Dandridge ponders how many snacks are “too many”
+2024-04-11 13:05:50 INFO    Priya Dandridge cleaned her room by moving everything into piles
+2024-04-11 13:08:42 WARNING Priya Dandridge placed candles way too close to curtains
+2024-04-11 13:11:55 ERROR   Priya Dandridge extinguished a candle with her sleeve
+
+2024-04-11 13:12:41 DEBUG   Weston Hale wonders if he should adopt eleven hamsters
+2024-04-11 13:15:19 INFO    Weston Hale managed to whistle for the first time today
+2024-04-11 13:18:05 WARNING Weston Hale trusted a chair with only three working legs
+2024-04-11 13:20:48 ERROR   Weston Hale fell majestically
+
+2024-04-11 13:21:37 DEBUG   Juliette Farrow debates naming her car “The Banana”
+2024-04-11 13:24:15 INFO    Juliette Farrow matched her socks to her mood
+2024-04-11 13:26:40 WARNING Juliette Farrow attempted to peel an avocado without supervision
+2024-04-11 13:29:58 ERROR   Juliette Farrow launched the avocado across the kitchen
+
+2024-04-11 13:30:44 DEBUG   Ronan Wycliffe wonders if he can become friends with local geese
+2024-04-11 13:33:22 INFO    Ronan Wycliffe befriended one goose; immediately regretted it
+2024-04-11 13:36:11 WARNING Ronan Wycliffe fed bread to geese while wearing open‑toed shoes
+2024-04-11 13:39:08 ERROR   Ronan Wycliffe was chased by offended geese
+
+2024-04-11 13:40:23 DEBUG   Dahlia Trentham contemplates starting a band called “Mild Panic”
+2024-04-11 13:42:51 INFO    Dahlia Trentham brewed flawless coffee on first attempt
+2024-04-11 13:45:30 WARNING Dahlia Trentham carried soup in a bowl that was definitely cracked
+2024-04-11 13:48:44 ERROR   Dahlia Trentham accidentally watered her plant with coffee
+
+2024-04-11 13:49:59 DEBUG   Corbin Slate debates reorganizing his life using color coding
+2024-04-11 13:52:40 INFO    Corbin Slate managed to fold laundry promptly for once
+2024-04-11 13:55:11 WARNING Corbin Slate tried wearing sunglasses indoors “for the vibe”
+2024-04-11 13:57:44 ERROR   Corbin Slate walked into a wall wearing said sunglasses
+
+2024-04-11 13:58:30 DEBUG   Amara Penn wonders if she should adopt a snail as a pet
+2024-04-11 14:00:55 INFO    Amara Penn successfully baked muffins shaped like deflated balloons
+2024-04-11 14:03:18 WARNING Amara Penn attempted to flip pancakes mid‑air theatrically
+2024-04-11 14:05:59 ERROR   Amara Penn dropped every pancake on the dog
+
+
+
+### Jawn Poem ###
+jawn woke up cranky and demanded coffee immediately
+The pigeons on the roof agreed, calling it a very bold Jawn
+Someone tried to microwave a burrito and ended up summoning a tiny jawn
+At brunch, chaos erupted when Chad ordered “a vibe… with extra jawn”
+JAWN leapt from the counter like it had somewhere important to be
+
+The cat looked at a spilled bowl of cereal and whispered “classic jawn”
+A barista tried latte art and created something resembling a screaming JAWN
+A toddler confidently identified the moon as “that big night jawn”
+The old man on the corner sold advice, gum, and the occasional jawn
+A confused tourist photographed a trash can thinking it was a historical Jawn
+
+An overcaffeinated pigeon strutted by, carrying a crumb like it was a VIP jawn
+Someone attempted yoga and instead invented a new pose: The Unexpected Jawn
+The wind knocked over a sign that simply read “live, laugh, jawn”
+At the park, a dog retrieved not one—but seventeen jawns
+A bicyclist screamed triumphantly after avoiding a pothole jawn
+
+The chef dropped an entire tray of muffins and blamed the jawn
+A kid declared broccoli illegal and started a small JAWN uprising
+The clouds shaped themselves into something resembling a majestic jawn
+A barbershop quartet harmonized beautifully until someone sneezed JAWN
+A squirrel stole an entire sandwich and vanished with the stealth of a lowercase jawn
+
+jawn begins this line because it felt like it
+A skateboarder attempted a flip and invented a new trick called The Mid‑Air Jawn
+A grandmother knitted a scarf long enough to be legally considered a Jawn
+A goose chased three people and a stroller for reasons known only to jawn
+Someone dropped their phone and whispered a heartfelt “why, JAWN, why”
+
+At sunset, everyone paused to admire the glowing sky jawn
+And just when the day seemed normal, the streetlamp flickered and revealed one final jawn
